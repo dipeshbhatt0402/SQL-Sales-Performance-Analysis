@@ -63,7 +63,7 @@ The project uses three tables:
 
 - MySQL  
 - SQL  
-
+  
 ---
 
 ## 🔹 How to Run
@@ -80,6 +80,37 @@ SQL-Sales-Performance-Analysis/
 ├── dataset.sql -- Tables + Insert Data
 ├── queries.sql -- All analysis queries
 ├── README.md -- Project documentation
+
+---
+
+## 🔹 Author
+
+Dipesh Darshan Bhatt
+
+---
+
+## 📊 Dashboard
+
+Power BI dashboard built to visualize revenue trends and performance.
+
+---
+
+## 🔹 Tools Used
+
+- Power BI
+
+---
+
+### Key Insights:
+- Enterprise Sales contributes ~90% of revenue
+- Revenue peaked in March 2023 (~180K)
+- SMB & Marketing contribute minimal share
+
+---
+
+### Dashboard Preview:
+<img width="1366" height="768" alt="2026-04-03 (3)" src="https://github.com/user-attachments/assets/b037ddbb-e6ac-439d-86bc-70adabadf3c0" />
+
 ---
 
 ## 🔹 Author
